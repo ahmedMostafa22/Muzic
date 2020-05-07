@@ -1,0 +1,36 @@
+name: muzic
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  curved_navigation_bar: ^0.3.2
+  flare_splash_screen: ^3.0.1
+  flutter_audio_query: ^0.3.4+2
+  audioplayers: ^0.15.1
+  flutter_spinkit: ^4.1.2
+  sqflite: ^1.1.0  
+  flutter_simple_dependency_injection: ^1.0.1 
+  path_provider: ^1.6.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.0
+
+flutter_icons:
+  image_path: "images/icon.png"
+  ios: true
+  android: true
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
