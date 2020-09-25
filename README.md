@@ -1,16 +1,13 @@
 # muzic
 
-A new Flutter project.
+A flutter app that plays mp3 music from your phone memory .
 
-## Getting Started
+What i used in this app :
 
-This project is a starting point for a Flutter application.
+- Provider package 
+- sqflite 
+- AudioPlayer
+- Future builder
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![iphonexspacegrey_portrait (3)](https://user-images.githubusercontent.com/56844663/94261532-4dfb8b80-ff32-11ea-8925-ac731b99cbff.png)
+![iphonexspacegrey_portrait (2)](https://user-images.githubusercontent.com/56844663/94261538-4f2cb880-ff32-11ea-9cc1-e9cb8d9d84ac.png)
